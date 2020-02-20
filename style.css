@@ -5,11 +5,11 @@ body {
     display: block;
     background-color:rgb(30, 173, 90) ;
     height: 50px;
-    width: 100px;
+    width: 100%;
 }
 #banner2{
     display: block;
     background-color: rgb(30, 173, 90);
     height: 50px;
-    width: 100px;
+    width: 100%;
 }
