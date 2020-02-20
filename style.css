@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+#banner1{
+    display: block;
+    background-color:rgb(30, 173, 90) ;
+    height: 50px;
+    width: 100px;
+}
+#banner2{
+    display: block;
+    background-color: rgb(30, 173, 90);
+    height: 50px;
+    width: 100px;
+}
